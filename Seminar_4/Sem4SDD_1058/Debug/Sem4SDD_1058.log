@@ -1,0 +1,16 @@
+﻿  lista_liste.c
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(28,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(29,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(40,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(41,19): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(49,18): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(57,21): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(58,19): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(69,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(80,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(81,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(91,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(105,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(104,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\lista_liste.c(132,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Sem4SDD_1058.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Sem4SDD_1058\Debug\Sem4SDD_1058.exe

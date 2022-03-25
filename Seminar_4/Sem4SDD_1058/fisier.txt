@@ -1,0 +1,6 @@
+5
+123 lapte 5.5 lactate
+124 paine 4.3 panificatie
+125 iaurt 2.5 lactate
+126 briose 3.3 panificatie
+127 suc 7.5 bauturi
