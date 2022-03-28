@@ -1,0 +1,4 @@
+﻿  Source3.cpp
+C:\Users\Administrator\source\repos\SDD2021\Curs_5\Curs_5\Source3.cpp(72,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\SDD2021\Curs_5\Curs_5\Source3.cpp(224,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Curs_5.vcxproj -> C:\Users\Administrator\source\repos\SDD2021\Curs_5\Curs_5\Debug\Curs_5.exe

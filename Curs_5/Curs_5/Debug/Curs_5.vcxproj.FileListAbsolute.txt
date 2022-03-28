@@ -1,0 +1,4 @@
+C:\WORK\SDD 2020-2021\Curs_5\Debug\Curs_5.exe
+C:\WORK\SDD 2020-2021\Curs_5\Debug\Curs_5.pdb
+C:\Users\Administrator\source\repos\SDD2021\Curs_5\Curs_5\Debug\Curs_5.exe
+C:\Users\Administrator\source\repos\SDD2021\Curs_5\Curs_5\Debug\Curs_5.pdb

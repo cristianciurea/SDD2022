@@ -1,0 +1,14 @@
+﻿  Source3.c
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(70,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(122,39): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(123,18): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(136,18): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(145,39): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(146,16): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(158,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(201,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(213,14): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(215,28): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(247,20): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\Source3.c(248,14): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+  Curs_5.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Curs_5\Curs_5\x64\Debug\Curs_5.exe
