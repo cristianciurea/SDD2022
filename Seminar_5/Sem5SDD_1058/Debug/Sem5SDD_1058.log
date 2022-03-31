@@ -1,0 +1,4 @@
+﻿  quadratic.c
+C:\Users\Administrator\Desktop\SDD 2022\Sem5SDD_1058\quadratic.c(101,38): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem5SDD_1058\quadratic.c(102,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Sem5SDD_1058.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Sem5SDD_1058\Debug\Sem5SDD_1058.exe

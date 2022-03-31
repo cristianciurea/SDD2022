@@ -1,0 +1,6 @@
+5
+100 paine 4.2 3
+200 pepene 5.7 4
+300 cartofi 2.2 2.5
+400 lapte 5.4 2
+500 cascaval 9.9 1
