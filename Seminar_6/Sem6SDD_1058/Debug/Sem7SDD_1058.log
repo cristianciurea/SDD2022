@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(46,23): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(47,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(56,18): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(64,21): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(65,19): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(76,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(87,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(88,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(98,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(110,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Source.c(109,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+  Sem7SDD_1058.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1058\Debug\Sem7SDD_1058.exe
