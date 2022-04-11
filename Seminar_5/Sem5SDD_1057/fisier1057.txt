@@ -1,0 +1,6 @@
+5
+100 Popescu 9.5 Informatica
+200 Vasilescu 9.0 Cibernetica
+300 Pavelescu 8.7 Statistica
+400 Ionescu 8.5 Informatica
+500 Ianculescu 8.0 Cibernetica
