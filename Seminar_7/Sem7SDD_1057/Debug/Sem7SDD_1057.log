@@ -1,0 +1,26 @@
+﻿  arbore_binar.c
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(21,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(23,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(25,18): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(26,19): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(36,44): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(36,45): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(42,47): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(42,48): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(58,24): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(59,25): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(67,23): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(70,24): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(82,34): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(84,35): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(94,25): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(95,26): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(105,1): warning C4133: 'initializing': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(106,1): warning C4133: 'initializing': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(120,36): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(121,37): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(134,40): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(135,41): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(145,34): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\arbore_binar.c(146,35): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+  Sem7SDD_1057.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Sem7SDD_1057\Debug\Sem7SDD_1057.exe
