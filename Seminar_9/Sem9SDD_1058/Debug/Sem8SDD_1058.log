@@ -1,0 +1,4 @@
+﻿  heap.c
+C:\Users\Administrator\Desktop\SDD 2022\Sem8SDD_1058\heap.c(99,45): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem8SDD_1058\heap.c(101,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Sem8SDD_1058.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Sem8SDD_1058\Debug\Sem8SDD_1058.exe

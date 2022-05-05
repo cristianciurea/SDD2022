@@ -1,0 +1,6 @@
+5
+12 seminar
+10 cumparaturi
+14 film
+8 examen
+15 plimbare
