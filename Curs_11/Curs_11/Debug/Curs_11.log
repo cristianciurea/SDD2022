@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\Curs_11\Curs_11\Source.c(25,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_11\Curs_11\Source.c(38,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_11\Curs_11\Source.c(55,23): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\Administrator\Desktop\SDD 2022\Curs_11\Curs_11\Source.c(66,24): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+  Curs_11.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Curs_11\Curs_11\Debug\Curs_11.exe

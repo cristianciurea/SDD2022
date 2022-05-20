@@ -1,0 +1,8 @@
+6
+101 Analist 3500
+99 Programator 5500
+103 Medic 10000.5
+87 Avocat 8000
+95 Pictor 1300
+66 Arhitect 9900
+

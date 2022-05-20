@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\SDD2021\Curs_10\Curs_10\Debug\Curs_10.exe
+C:\Users\Administrator\source\repos\SDD2021\Curs_10\Curs_10\Debug\Curs_10.pdb
+C:\Users\Administrator\Desktop\SDD 2022\Curs_10\Curs_10\Debug\Curs_10.exe
+C:\Users\Administrator\Desktop\SDD 2022\Curs_10\Curs_10\Debug\Curs_10.pdb
