@@ -434,11 +434,11 @@ void main()
 	else
 		printf("\nNu exista!");*/
 
-	inordine(rad);
+	preordine(rad);
 	printf("\n------------------------\n");
-	inordine(rad->left);
+	preordine(rad->left);
 	printf("\n------------------------\n");
-	inordine(rad->right);
+	preordine(rad->right);
 	printf("\n------------------------\n");
 
 	printf("\nInaltime arbore este %d", nrNiveluri(rad));
@@ -479,24 +479,24 @@ void main()
 	printf("\nInaltime subarbore stang este %d", nrNiveluri(rad->left));
 	printf("\nInaltime subarbore drept este %d", nrNiveluri(rad->right));*/
 
-	printf("\nNoduri de pe nivelul 3: \n");
-	afisareNivel(rad, 3);
+	//printf("\nNoduri de pe nivelul 3: \n");
+	//afisareNivel(rad, 3);
 
-	printf("\nTraversare pe niveluri: \n");
-	traversareNiveluri(rad);
+	//printf("\nTraversare pe niveluri: \n");
+	//traversareNiveluri(rad);
 
-	printf("\nDrumul de la radacina la un anumit nod: \n");
-	int* vector = (int*)malloc(n*sizeof(int));
-	int nr = 0;
-	afiseazaDrum(rad, vector, nr, 5);
+	//printf("\nDrumul de la radacina la un anumit nod: \n");
+	//int* vector = (int*)malloc(n*sizeof(int));
+	//int nr = 0;
+	//afiseazaDrum(rad, vector, nr, 5);
 
-	//spargere arbore in doi subarbori binari
-	nodarb* rad1 = NULL, *rad2 = NULL;
-	spargereAVLdoiArbori(rad, &rad1, &rad2, 8);
-	printf("\nPrimul subarbore: \n");
-	inordine(rad1);
-	printf("\nAl doilea subarbore: \n");
-	inordine(rad2);
+	////spargere arbore in doi subarbori binari
+	//nodarb* rad1 = NULL, *rad2 = NULL;
+	//spargereAVLdoiArbori(rad, &rad1, &rad2, 8);
+	//printf("\nPrimul subarbore: \n");
+	//inordine(rad1);
+	//printf("\nAl doilea subarbore: \n");
+	//inordine(rad2);
 
 	dezalocare(rad);
 }

@@ -27,16 +27,17 @@ void push(nodStiva** varf, int val)
 	}
 }
 
-void pop(nodStiva** varf, int* val)
+int pop(nodStiva** varf, int* val)
 {
 	if (*varf == NULL)
-		return;
+		return 0;
 	else
 	{
 		*val = (*varf)->inf;
 		nodStiva* aux = *varf;
 		*varf = (*varf)->next;
 		free(aux);
+		return 1;
 	}
 }
 
@@ -45,7 +46,7 @@ void put(nodCoada** prim, nodCoada** ultim, int val)
 	nodCoada* nou = (nodCoada*)malloc(sizeof(nodCoada));
 	nou->inf = val;
 	nou->next = NULL;
-	if (*prim == NULL && *ultim == NULL)
+	if (*prim == NULL || *ultim == NULL)
 	{
 		*prim = nou;
 		*ultim = nou;
@@ -57,17 +58,22 @@ void put(nodCoada** prim, nodCoada** ultim, int val)
 	}
 }
 
-void get(nodCoada** prim, nodCoada** ultim, int* val)
+int get(nodCoada** prim, nodCoada** ultim, int* val)
 {
-	if (*prim != NULL && *ultim != NULL)
+	if (*prim != NULL && *ultim!=NULL)
 	{
 		*val = (*prim)->inf;
 		nodCoada* aux = *prim;
 		*prim = (*prim)->next;
 		free(aux);
+		return 0;
 	}
+	else
 	if (*prim == NULL)
+	{
 		*ultim = NULL;
+		return -1;
+	}
 }
 
 void parcurgereAdancime(int** mat, int* vizitat, int nr, int nod)

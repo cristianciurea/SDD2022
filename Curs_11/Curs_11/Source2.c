@@ -51,7 +51,7 @@ void put(nodCoada** prim, nodCoada** ultim, int val)
 	nodCoada* nou = (nodCoada*)malloc(sizeof(nodCoada));
 	nou->inf = val;
 	nou->next = NULL;
-	if (*prim == NULL && *ultim == NULL)
+	if (*prim == NULL || *ultim == NULL)
 	{
 		*prim = nou;
 		*ultim = nou;

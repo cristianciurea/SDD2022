@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(32,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(45,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(88,21): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(89,19): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(101,20): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(110,1): warning C4133: 'initializing': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(134,20): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(154,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Source.c(155,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Sem12SDD_1058.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1058\Debug\Sem12SDD_1058.exe

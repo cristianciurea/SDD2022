@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(40,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(53,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(71,23): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(82,24): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(154,21): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(155,19): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(166,20): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(175,1): warning C4133: 'initializing': incompatible types - from 'nodLista *' to 'nodLista *'
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(203,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(204,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Source.c(91): warning C4715: 'get': not all control paths return a value
+  Sem12SDD_1057.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\Sem12SDD_1057\Debug\Sem12SDD_1057.exe
